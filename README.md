@@ -55,6 +55,7 @@ npx create-react-app my-app --template typescript
 
 npm install @mui/material @emotion/react @emotion/styled
 
+
 <!-- for navigation comes under routes folder  -->
 npm install --save react-router-dom
 
