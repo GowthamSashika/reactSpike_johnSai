@@ -1,0 +1,12 @@
+.text {
+  font-size: 16px;
+  background: #83a9c666;
+}
+.login-main {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  height: 97vh;
+  grid-gap: 34px;
+  background: linear-gradient(to top, #91abc8, #4dc374);
+}
